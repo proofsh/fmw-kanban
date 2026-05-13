@@ -18,7 +18,7 @@
     "react-app-polyfill": "^1.0.6",
     "react-dom": "^16.13.0",
     "react-hook-form": "^4.10.2",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.4.1",
     "swr": "^0.1.18"
   },
